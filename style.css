@@ -1,0 +1,62 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	background-color:#f4f4f4;
+	color:#fff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.bluetext
+{
+	color:#283d69;
+}
+.lefttable
+{
+	float: left;
+	width: 50%;
+}
+.righttable
+{
+	float: right;
+	width: 50%;	
+}
+.darkgrey
+{
+	color: #a9a9a9;
+}
+.radio-colour
+{
+	color: black;
+}
+.button
+{
+	background-color: #72a84d;
+	color: white;
+	border: black solid 1px;
+	cursor: pointer;
+	padding: 12px 60px;
+	border-radius: 6px;
+}
+.link
+{
+	text-decoration: none;
+	cursor: pointer;
+	color: #283d69;
+}
+.login
+{
+	background-color: #283d69;
+	color: white;
+	border: none;
+	padding: 4px;
+	cursor: pointer;
+}
+.field
+{
+	height: 35px;
+	border-radius: 6px;
+	border: 1px grey solid;
+}
